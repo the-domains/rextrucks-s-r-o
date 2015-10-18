@@ -1,6 +1,6 @@
-name: null
+name: REXTRUCKS s.r.o.
 favicon: null
-layout_spectrum: 0.4334297296591103
+layout_spectrum: 0.98649
 typography_spectrum: 0.5865805230569094
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9583131351973861
+  brandColors:
+    - '#ffffff'
+    - '#565553'
+    - '#a4a5a7'
+    - '#1c1c1c'
+    - '#cbcac6'
+  brandStrength: 0.25
   lightness: 0.6909036277793348
   saturation: 0.3536101714707911
   rhythmicContrast: 0.7792457684408873
